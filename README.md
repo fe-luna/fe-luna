@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Luna
-- 👀 I’m interested in frontend development, focusing on React
-- 💪 I'm seeking an remote or hybrid job as a Frontend Engineer (Singapore DP holder)
-- 👉 My resume: [Chen-Zhang.pdf](./Chen-Zhang.pdf)
